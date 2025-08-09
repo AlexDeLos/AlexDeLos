@@ -22,13 +22,13 @@
     </h1>
 </div>
 
-<h3 align="center">A passionate AI Researcher, engineer and software developer based in The Hague. </h3>
+<h3 align="center">A passionate AI Researcher, Engineer and Software Developer based in The Hague. </h3>
 <br>
 <div style="padding-left: 20px;">
 
-> 💻 I'm currently working on **Web Development for Datathons using Docker, SvelteKit, and PocketBase**
+> 💻 I'm currently working on **Infering Gene Regulatory Networks from Gene Expression Data**
 >
-> 📚 I'm currently learning **MLOps, Docker, and Cloud Infrastructure**
+> 📚 I'm currently learning **Data Processing, LLMs and BioInformatics Dataset handeling**
 >
 > 💬 Ask me about **Python, Deep Learning, Bioinformatics, Computer Vision, or Reserach**
 >
