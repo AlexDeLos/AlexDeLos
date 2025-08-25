@@ -55,6 +55,13 @@
 </table>
 
 
+<h2 align="center">📚 My Research 📚</h2>
+
+- **Residual Connections in Spiking Neural Networks** >  📅 *Published 2024*
+  > 🔗 [Paper Link](https://repository.tudelft.nl/record/uuid:7b42e9fb-f47c-46bc-a125-c481a59fc007) | 💾 [Code](https://github.com/AlexDeLos/bats)
+
+- **A Comparative Study of Rust and C++ Performance in Scientific Computing** > 📅 *Published 2022* > 🔗 [Paper Link](https://repository.tudelft.nl/file/File_338d0022-da28-4ef4-94f7-d8b4c94bde54)
+
 
 <!-- <br><br>
 <div align="center">
